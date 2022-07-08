@@ -1,0 +1,20 @@
+.Cbutton,
+.alsoFonts {
+  padding: 20px 35px;
+  font-size: 24px;
+  border-radius: 16px;
+  color: var(--primaryColor);
+  background: #060b1a;
+  position: relative;
+  border: none;
+  z-index: 100;
+  box-shadow: inset 2px 2px 6px #f3c6aaa1;
+  transition: 0.3s;
+}
+.alsoFonts {
+  padding: 20px 80px;
+  border-radius: 25px;
+}
+.Cbutton:hover {
+  color: #f3c6aa;
+}
