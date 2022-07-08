@@ -21,13 +21,6 @@
   background-size: cover;
   position: relative;
 }
-.secondSection::before {
-  content: "";
-  position: absolute;
-  width: 100%;
-  min-height: 100vh;
-  background: rgba(0, 0, 0, 0.452);
-}
 
 /* light container */
 .lightsContainer {
@@ -40,7 +33,7 @@
   z-index: 100;
 }
 .Links {
-  min-width: 340px;
+  min-width: 365px;
   min-height: 90vh;
   position: absolute;
   bottom: 0;
